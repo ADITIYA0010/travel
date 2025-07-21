@@ -90,4 +90,4 @@ Feel free to fork the project, open PRs, and improve it! 🙌
 
 
 for more info:
-https://docs.google.com/presentation/d/1FtcbPjKOIcqc8wF3VbU3BI-NcjyITKe6/edit?usp=drive_link&ouid=115991104041188925254&rtpof=true&sd=true
+https://docs.google.com/presentation/d/1FtcbPjKOIcqc8wF3VbU3BI-NcjyITKe6/edit?usp=sharing&ouid=115991104041188925254&rtpof=true&sd=true
