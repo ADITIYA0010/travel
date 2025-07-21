@@ -75,7 +75,7 @@ Employee	Submit travel requests and expense reimbursements
 ❓ Need Help?
 📬 For help or questions, please contact:
 
-Email: yourname@example.com
+Email: aditya.sharma1_cs22@gla.ac.in
 
 GitHub Issues: Open a bug or feature request
 
@@ -86,8 +86,6 @@ Aditya Sharma – Full-Stack Developer
 
 Feel free to fork the project, open PRs, and improve it! 🙌
 
-📄 License
-This project is licensed under the MIT License.
 
 
 
